@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ArnaudBand/sign-tx#readme",
   "dependencies": {
-    "alchemy-sdk": "^2.5.0"
+    "alchemy-sdk": "^2.5.0",
+    "dotenv": "^16.0.3"
   }
 }
